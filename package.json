@@ -26,5 +26,20 @@
   "bugs": {
     "url": "https://github.com/OLIOEX/redux-persist-immutable-reconciler/issues"
   },
-  "homepage": "https://github.com/OLIOEX/redux-persist-immutable-reconciler#readme"
+  "homepage": "https://github.com/OLIOEX/redux-persist-immutable-reconciler#readme",
+  "dependencies": {
+    "immutable": "^4.0.0-rc.12"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.4.3",
+    "@babel/preset-env": "^7.4.3",
+    "@babel/preset-flow": "^7.0.0",
+    "babel-jest": "^24.7.1",
+    "babel-plugin-transform-flow-strip-types": "^6.22.0",
+    "flow-bin": "^0.96.0",
+    "jest": "^24.7.1"
+  },
+  "jest": {
+    "testRegex": "tests/.*.js$"
+  }
 }
