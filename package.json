@@ -1,0 +1,30 @@
+{
+  "name": "@olioex/redux-persist-immutable-reconciler",
+  "version": "0.1.0",
+  "description": "State Reconciler for immutable state",
+  "main": "src/index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OLIOEX/redux-persist-immutable-reconciler.git"
+  },
+  "keywords": [
+    "stateReconciler",
+    "redux-persist",
+    "immutableJS"
+  ],
+  "author": {
+    "name": "Tania Papazafeiropoulou",
+    "email": "tania@olioex.com"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/OLIOEX/redux-persist-immutable-reconciler/issues"
+  },
+  "homepage": "https://github.com/OLIOEX/redux-persist-immutable-reconciler#readme"
+}
