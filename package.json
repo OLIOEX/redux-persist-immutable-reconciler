@@ -39,7 +39,6 @@
     "@babel/preset-env": "^7.4.3",
     "@babel/preset-flow": "^7.0.0",
     "babel-jest": "^30.5.2",
-    "babel-plugin-transform-flow-strip-types": "^6.22.0",
     "flow-bin": "^0.96.0",
     "jest": "^30.5.2"
   },
