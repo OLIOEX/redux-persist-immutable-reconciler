@@ -47,5 +47,9 @@
     "transform": {
       "^.+\\.js?$": "babel-jest"
     }
+  },
+  "overrides": {
+    "glob": "^14.0.4",
+    "minimatch": "^11.0.8"
   }
 }
