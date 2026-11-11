@@ -2,7 +2,7 @@
 
 ### State reconciler for deep merging immutable state
 
-[![Build Status](https://travis-ci.org/OLIOEX/redux-persist-immutable-reconciler.svg?branch=master)](https://travis-ci.org/OLIOEX/redux-persist-immutable-reconciler)
+[![CI](https://github.com/OLIOEX/redux-persist-immutable-reconciler/actions/workflows/ci.yml/badge.svg?branch=master)](https://github.com/OLIOEX/redux-persist-immutable-reconciler/actions/workflows/ci.yml)
 
 Implemented to work with [redux-persist-transform-filter-immutable](https://github.com/actra-development-oss/redux-persist-transform-filter-immutable)
 
