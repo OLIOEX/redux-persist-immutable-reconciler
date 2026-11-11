@@ -3,6 +3,9 @@
   "version": "0.2.0",
   "description": "State Reconciler for immutable state",
   "main": "src/index.js",
+  "files": [
+    "src"
+  ],
   "directories": {
     "test": "tests"
   },
