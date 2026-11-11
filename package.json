@@ -1,6 +1,6 @@
 {
   "name": "@olioex/redux-persist-immutable-reconciler",
-  "version": "0.2.0",
+  "version": "0.4.0",
   "description": "State Reconciler for immutable state",
   "main": "src/index.js",
   "files": [
